@@ -1,16 +1,20 @@
 # energy_park
 
-A new Flutter project.
+*****App Functionality*****
+This is the app for managing our tasks. The project manager can create tasks with task name, task description, date, and assign the task to any employee in their team.
 
-## Getting Started
+The Home Screen will show list of all the tasks with the status of pending/completed. 
 
-This project is a starting point for a Flutter application.
+The user can use filter screen to filter the task with pending/completed.
 
-A few resources to get you started if this is your first Flutter project:
+*******Attached is the screenshots*******
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="assets/screenshots/splash.png" width="250" />
+    <img src="assets/screenshots/notask.png" width="250" />
+    <img src="assets/screenshots/addtask.png" width="250" />
+    <img src="assets/screenshots/adddata.png" width="250" />
+    <img src="assets/screenshots/assign.png" width="250" />
+    <img src="assets/screenshots/tasklistwithpending.png" width="250" />
+    <img src="assets/screenshots/taskwithcompleted.png" width="250" />
+</div>
