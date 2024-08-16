@@ -1,6 +1,7 @@
 # energy_park
 
 *****App Functionality*****
+
 This is the app for managing our tasks. The project manager can create tasks with task name, task description, date, and assign the task to any employee in their team.
 
 The Home Screen will show list of all the tasks with the status of pending/completed. 
