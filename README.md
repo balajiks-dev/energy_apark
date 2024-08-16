@@ -15,6 +15,8 @@ The user can use filter screen to filter the task with pending/completed.
     <img src="assets/screenshots/addtask.png" width="250" />
     <img src="assets/screenshots/adddata.png" width="250" />
     <img src="assets/screenshots/assign.png" width="250" />
+    <img src="assets/screenshots/tasklist.png" width="250" />
+    <img src="assets/screenshots/filter.png" width="250" />
     <img src="assets/screenshots/tasklistwithpending.png" width="250" />
     <img src="assets/screenshots/taskwithcompleted.png" width="250" />
 </div>
